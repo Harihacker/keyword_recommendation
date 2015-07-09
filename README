@@ -1,0 +1,17 @@
+  This project is a keyword suggestion,when you  input a keyword or query ,then this service will suggest yourelated keywords.But this project depends on the personal tokenize,and i  will change it in the later time.And the log is created by log4cxx,which depends on apr,apr-util,libiconv,json.You can install them with the help of install.sh(../include/other-ex/lib).
+
+2.Can not push dict(keyword tokenize dictionary,and keyword suggestion dictionary) to github,the size of dictionary is larger than 50M ,so you can download them from the below address.
+	http://yunpan.cn/ccyRf2WyEIT6b  访问密码 299e
+
+
+
+
+
+
+
+
+
+
+
+
+Wish you happy with this Project!
