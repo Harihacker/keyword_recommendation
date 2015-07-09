@@ -1,0 +1,75 @@
+06-10 13:24:56:  qs. * 140470560040832 * Open process log by----qs. for wf
+========================================================
+06-10 13:24:56:  qs. * 140470441539328 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 06-10 13:25:09:  qs. * 140470441539328 parse uri  fail
+WARNING: 06-10 13:25:22:  qs. * 140470441539328 parse uri  fail
+WARNING: 06-10 13:25:34:  qs. * 140470441539328 parse uri  fail
+WARNING: 06-10 13:25:54:  qs. * 140470441539328 [0]: get_request: client closed the connection
+WARNING: 06-10 13:25:54:  qs. * 140470441539328 get request fail
+WARNING: 06-10 13:25:54:  qs. * 140470441539328 [7]: protocol.c:write contents error:Broken pipe
+WARNING: 06-10 13:27:34:  qs. * 140470441539328 parse uri  fail
+WARNING: 06-10 13:27:43:  qs. * 140470441539328 parse uri  fail
+06-10 14:03:11:  qs. * 140524076103552 * Open process log by----qs. for wf
+========================================================
+06-10 14:03:11:  qs. * 140523957602048 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 06-10 14:03:33:  qs. * 140523957602048 parse uri  fail
+WARNING: 06-10 14:03:42:  qs. * 140523957602048 [0]: get_request: client closed the connection
+WARNING: 06-10 14:03:42:  qs. * 140523957602048 get request fail
+WARNING: 06-10 14:03:42:  qs. * 140523957602048 [7]: protocol.c:write contents error:Broken pipe
+WARNING: 06-10 14:03:42:  qs. * 140523957602048 parse uri  fail
+WARNING: 06-10 14:03:47:  qs. * 140523957602048 parse uri  fail
+06-12 10:46:51:  qs. * 140030502659968 * Open process log by----qs. for wf
+========================================================
+06-12 10:46:51:  qs. * 140030384166656 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 06-12 10:47:01:  qs. * 140030384166656 parse uri  fail
+WARNING: 06-12 10:48:15:  qs. * 140030384166656 parse uri  fail
+07-08 17:57:28:  qs. * 140287782094720 * Open process log by----qs. for wf
+========================================================
+07-08 17:57:28:  qs. * 140287663601408 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 07-08 18:00:05:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:05:02:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:05:02:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:12:31:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:12:39:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:12:50:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:12:58:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:13:04:  qs. * 140287663601408 parse uri  fail
+WARNING: 07-08 18:13:10:  qs. * 140287663601408 [0]: get_request: client closed the connection
+WARNING: 07-08 18:13:10:  qs. * 140287663601408 get request fail
+WARNING: 07-08 18:13:10:  qs. * 140287663601408 [7]: protocol.c:write contents error:Broken pipe
+WARNING: 07-08 18:13:10:  qs. * 140287663601408 [0]: get_request: client closed the connection
+WARNING: 07-08 18:13:10:  qs. * 140287663601408 get request fail
+WARNING: 07-08 18:13:10:  qs. * 140287663601408 [7]: protocol.c:write contents error:Broken pipe
+07-08 19:51:05:  qs. * 140309744637824 * Open process log by----qs. for wf
+========================================================
+07-08 19:51:05:  qs. * 140309626144512 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 07-08 19:51:10:  qs. * 140309626144512 parse uri  fail
+WARNING: 07-08 19:51:11:  qs. * 140309626144512 parse uri  fail
+07-08 19:55:31:  qs. * 140280603453312 * Open process log by----qs. for wf
+========================================================
+07-08 19:55:31:  qs. * 140280484960000 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 07-08 19:55:36:  qs. * 140280484960000 parse uri  fail
+07-08 20:05:59:  qs. * 139838575224704 * Open process log by----qs. for wf
+========================================================
+07-08 20:05:59:  qs. * 139838458832640 * Open thread log by----qs.:server_thread for wf
+================================================
+WARNING: 07-08 20:07:28:  qs. * 139838458832640 parse uri  fail
+WARNING: 07-08 20:07:30:  qs. * 139838458832640 parse uri  fail
+WARNING: 07-08 20:07:37:  qs. * 139838458832640 [0]: get_request: client closed the connection
+WARNING: 07-08 20:07:37:  qs. * 139838458832640 get request fail
+WARNING: 07-08 20:07:37:  qs. * 139838458832640 [7]: protocol.c:write contents error:Broken pipe
+WARNING: 07-08 20:07:41:  qs. * 139838458832640 parse uri  fail
+WARNING: 07-08 20:07:46:  qs. * 139838458832640 parse uri  fail
+WARNING: 07-08 20:07:53:  qs. * 139838458832640 parse uri  fail
+WARNING: 07-08 20:08:07:  qs. * 139838458832640 [0]: get_request: client closed the connection
+WARNING: 07-08 20:08:07:  qs. * 139838458832640 get request fail
+WARNING: 07-08 20:08:07:  qs. * 139838458832640 [7]: protocol.c:write contents error:Broken pipe
+WARNING: 07-08 20:08:07:  qs. * 139838458832640 [0]: get_request: client closed the connection
+WARNING: 07-08 20:08:07:  qs. * 139838458832640 get request fail
+WARNING: 07-08 20:08:07:  qs. * 139838458832640 [7]: protocol.c:write contents error:Broken pipe
